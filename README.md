@@ -1,2 +1,6 @@
-# web-birthday-invitation
-Web invite Script
+# Web Birthday Invitation
+
+This Script helps managing birthday invites.
+
+
+
