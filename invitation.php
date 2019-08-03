@@ -42,8 +42,6 @@ $html = file_get_contents("invited_en.php");
 $html = str_replace("HIERDERNAMEUNDDIEID",$idname,$html);
 
 
-$status = file_get_contents("eingeladen/".$name.",".$id.".csv");
-
 if ($answered == false){
 
 	if ($lang == "de" || $lang == ""){
